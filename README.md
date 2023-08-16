@@ -30,5 +30,10 @@ Mostly used on web browsers and some backend with NodeJS
 ### Compiler
 - A compiler is a special program that processes statement written in a particular programming language and turns them into machine
   language or "Code" that a computer's processor uses.
-  
 
+  <img width="1277" alt="compiler" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/a925b9cf-fae8-4359-9591-9122527d2574">
+  
+### Interpreter
+- The interpreter reads each statement of code and then converts or executes it directly.
+
+  
