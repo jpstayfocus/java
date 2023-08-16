@@ -104,6 +104,8 @@ Intellij, for each opening brackets, there is a corresponding closing brackets. 
 To download it (Mac user) go to setting > Plugins > search Brackets > Install Rainbow brackets > Restart Intellij.
 With this plugins it's easier to see all the matching brackets. Here's an example and the [link](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) for more info:
 
+<img width="953" alt="rainbow brackets" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/991329ba-9c40-4fab-9655-007813e1e670">
+
 
 
 
