@@ -7,3 +7,12 @@ fundamental of java: variables, loops, functions, and inheritance.
 - 3 billion devices run java programs
 - similar to C++ but easier
 - very popular
+
+  # What can you build with Java?
+- Mobile apps for Android
+- Desktop app using java swing, JavaFX
+- Enterprise applications
+- Games such as Minecraft
+- Cloud based applications
+- and much more
+
