@@ -54,5 +54,7 @@ Mostly used on web browsers and some backend with NodeJS
 - is a process of verifying the type safety of a program runtime. Common dynamically-typed languages include Groovy, JavaScript, Lisp,
   Lua, Objective-C, PHP, Prolog, Python, Ruby, Smalltalk, and Tcl
 
+### Java version history
+Link [here](https://en.wikipedia.org/wiki/Java_version_history)
 
 
