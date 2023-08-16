@@ -106,6 +106,13 @@ With this plugins it's easier to see all the matching brackets. Here's an exampl
 
 <img width="953" alt="rainbow brackets" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/991329ba-9c40-4fab-9655-007813e1e670">
 
+### Java reserved keywords
+Link [here](https://www.w3schools.com/java/java_ref_keywords.asp)
+
+### How to make System.out.println() shorter?
+you can simply use the "sout" shortcut.
+
+
 
 
 
