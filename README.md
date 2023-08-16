@@ -40,5 +40,19 @@ Mostly used on web browsers and some backend with NodeJS
 
 ### Compiled vs Interpreted
 
+<img width="965" alt="compiled vs interpreted" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/4e612524-d4a9-4cf7-b1b5-3afeccb88254">
+
+# Static vs Dunamic Type Checking
+- Type - AKA data types, is a classification identifying one of various types of data. Strings, integers, Objects, Arrays, Maps..
+- The process of verifying and enforcing the constraints type - type checking - may occur either at compile time (a static check) or at run-time (dynamic check)
+
+### Static type checking
+-  A language is statically-typed if the type of a variable is known at compile timne instead of at runtime
+-  Allows many type erros to be caught early in the development cycle.
+
+### Dynamic Type Checking
+- is a process of verifying the type safety of a program runtime. Common dynamically-typed languages include Groovy, JavaScript, Lisp,
+  Lua, Objective-C, PHP, Prolog, Python, Ruby, Smalltalk, and Tcl
+
 
 
