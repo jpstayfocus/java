@@ -38,3 +38,7 @@ Mostly used on web browsers and some backend with NodeJS
 
   <img width="1172" alt="interpreter" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/634db52e-bcf7-4512-943c-decf9085919e">
 
+### Compiled vs Interpreted
+
+
+
