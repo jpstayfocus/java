@@ -8,7 +8,7 @@ fundamental of java: variables, loops, functions, and inheritance.
 - similar to C++ but easier
 - very popular
 
-  # What can you build with Java?
+# What can you build with Java?
 - Mobile apps for Android
 - Desktop app using java swing, JavaFX
 - Enterprise applications
