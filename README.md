@@ -84,6 +84,11 @@ Link [here](https://www.jetbrains.com/toolbox-app/)
 
 <img width="1680" alt="intellij" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/7da73706-61ec-46b7-aab1-012e6f6bda90">
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+### Intellij IDEA docs to get started can be found [here](https://www.jetbrains.com/help/idea/new-project-wizard.html#new-project-no-frameworks)
+
+
 
 
 
