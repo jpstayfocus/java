@@ -80,6 +80,12 @@ Link [here](https://www.jetbrains.com/toolbox-app/)
 
 <img width="432" alt="toolbox2" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/d16df20e-0fc2-4ae8-a23c-f17c4f1dcb3e">
 
+### Final Step:
+
+<img width="1680" alt="intellij" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/7da73706-61ec-46b7-aab1-012e6f6bda90">
+
+
+
 
 
 
