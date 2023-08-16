@@ -68,6 +68,8 @@ Link [here](https://www.jetbrains.com/idea/download/?section=mac)
 
 ### To install toobox 
 
+<img width="1679" alt="toolbox" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/c3fd6aa6-b399-44de-820e-ce8a8e52f1be">
+
 Link [here](https://www.jetbrains.com/toolbox-app/)
 
 
