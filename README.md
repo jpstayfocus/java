@@ -16,3 +16,7 @@ fundamental of java: variables, loops, functions, and inheritance.
 - Cloud based applications
 - and much more
 
+# Java Usages
+
+<img width="854" alt="java usages" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/b8b3cc59-bfd4-405c-a292-b89ca1a72c0e">
+
