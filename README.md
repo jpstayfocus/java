@@ -96,6 +96,21 @@ Intellij IDEA docs to get started can be found [here](https://www.jetbrains.com/
 
 <img width="1396" alt="run-java-terminal" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/c871d107-808e-40e2-b299-ec8c0abd1b7c">
 
+- package com.jpstayfocus; (we have semicolon, every single line, if it's not a method or a class, it will end with a semicolon)
+  if the semicolon (;) is missing, you will have a compile error.
+
+- public class Main {
+Intellij, for each opening brackets, there is a corresponding closing brackets. Intellij has a really nice plugins rainbow brackets.
+To download it (Mac user) go to setting > Plugins > search Brackets > Install Rainbow brackets > Restart Intellij.
+With this plugins it's easier to see all the matching brackets. Here's an example and the [link](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) for more info:
+
+
+
+
+
+
+
+
 
 
 
