@@ -92,8 +92,6 @@ Intellij IDEA docs to get started can be found [here](https://www.jetbrains.com/
 
 <img width="1396" alt="run-java-terminal" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/74cef9c9-fb92-4afb-a8f5-1e8f077bb26b">
 
-// /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java -javaagent:/Users/jephtepierre/Applications/IntelliJ IDEA Community Edition.app/Contents/lib/idea_rt.jar=61048:/Users/jephtepierre/Applications/IntelliJ IDEA Community Edition.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/jephtepierre/IdeaProjects/Java/out/production/Java com.jpstayfocus.Main
-Hello and welcome!
 
 
 
