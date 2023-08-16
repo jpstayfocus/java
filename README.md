@@ -12,7 +12,7 @@ fundamental of java: variables, loops, functions, and inheritance.
 - Mobile apps for Android
 - Desktop app using Java swing, JavaFX
 - Enterprise applications
-- Games such as Minecraft
+- Games such as [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
 - Cloud based applications
 - and much more
 
