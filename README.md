@@ -88,6 +88,10 @@ Link [here](https://www.jetbrains.com/toolbox-app/)
 
 Intellij IDEA docs to get started can be found [here](https://www.jetbrains.com/help/idea/new-project-wizard.html#new-project-no-frameworks)
 
+# Compiling and running via Terminal
+
+
+
 
 
 
