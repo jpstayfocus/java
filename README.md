@@ -57,4 +57,23 @@ Mostly used on web browsers and some backend with NodeJS
 ### Java version history
 Link [here](https://en.wikipedia.org/wiki/Java_version_history)
 
+# How do we write Java code?
+- With any text editor
+- [Eclipse](https://www.eclipse.org/ide/)
+- [Intellij IDEA](https://www.jetbrains.com/idea/)
+- [Visual Studio code](https://code.visualstudio.com)
+
+### Download IntelliJ IDEA:
+Link [here](https://www.jetbrains.com/idea/download/?section=mac)
+
+### To install toobox 
+
+Link [here](https://www.jetbrains.com/toolbox-app/)
+
+
+
+
+
+
+
 
