@@ -10,7 +10,7 @@ fundamental of java: variables, loops, functions, and inheritance.
 
 # What can you build with Java?
 - Mobile apps for Android
-- Desktop app using java swing, JavaFX
+- Desktop app using Java swing, JavaFX
 - Enterprise applications
 - Games such as Minecraft
 - Cloud based applications
