@@ -72,6 +72,15 @@ Link [here](https://www.jetbrains.com/idea/download/?section=mac)
 
 Link [here](https://www.jetbrains.com/toolbox-app/)
 
+### Once download of toolbox completed, just click and drag (If using a Macbook)
+
+<img width="1680" alt="toolbox1" src="https://github.com/jpstayfocus/java-fundamental/assets/110998062/af4f5834-fe26-468f-9383-8722dbf66ba4">
+
+### Next step:
+
+
+
+
 
 
 
